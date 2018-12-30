@@ -1,4 +1,4 @@
-#Embedded System Design 
+# Embedded Systems Design 
 ### Course on fundamentals of embedded systems: hardware components, software components, hardware/software interface design, and hardware/software co-design.
 ## Projects were developed on an Altera Cyclone 4 FPGA using Quartus II and SOPC Builder
 
